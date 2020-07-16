@@ -1,0 +1,149 @@
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\Tecfy2SEservices.exe.config
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\Tecfy2SEservices.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\Tecfy2SEservices.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\Microsoft.CSharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Configuration.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Configuration.Install.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Data.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Drawing.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Management.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Net.Http.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.ServiceProcess.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Web.Extensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Xml.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Xml.Linq.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.Installer.resources
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.GenerateResource.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.CoreCompileInputs.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.CopyComplete
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy2SEservices.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy2SEservices.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csprojAssemblyReference.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\itextsharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\itextsharp.xml
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\Tecfy2SEservices.exe.config
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\Tecfy2SEservices.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\Tecfy2SEservices.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\itextsharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\Microsoft.CSharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\System.Configuration.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\System.Configuration.Install.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\System.Data.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\System.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\System.Drawing.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\System.Management.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\System.Net.Http.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\System.ServiceProcess.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\System.Web.Extensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\System.Xml.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\System.Xml.Linq.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\bin\Debug\itextsharp.xml
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csprojAssemblyReference.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\obj\Debug\Tecfy.OCR.Installer.resources
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.GenerateResource.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.CoreCompileInputs.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.CopyComplete
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\obj\Debug\Tecfy2SEservices.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\- TECFY2SE -\Tecfy.OCR\obj\Debug\Tecfy2SEservices.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\Tecfy2SEservices.exe.config
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\Tecfy2SEservices.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\Tecfy2SEservices.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\itextsharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\Microsoft.CSharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\System.Configuration.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\System.Configuration.Install.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\System.Data.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\System.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\System.Drawing.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\System.Management.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\System.Net.Http.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\System.ServiceProcess.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\System.Web.Extensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\System.Xml.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\System.Xml.Linq.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\bin\Debug\itextsharp.xml
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\obj\Debug\Tecfy.OCR.Installer.resources
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.GenerateResource.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.CoreCompileInputs.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.CopyComplete
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\obj\Debug\Tecfy2SEservices.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\obj\Debug\Tecfy2SEservices.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csprojAssemblyReference.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\Tecfy2SEservices.exe.config
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\Tecfy2SEservices.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\Tecfy2SEservices.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\itextsharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\Microsoft.CSharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\System.Configuration.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\System.Configuration.Install.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\System.Data.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\System.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\System.Drawing.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\System.Management.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\System.Net.Http.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\System.ServiceProcess.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\System.Web.Extensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\System.Xml.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\System.Xml.Linq.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\bin\Debug\itextsharp.xml
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\obj\Debug\Tecfy.OCR.Installer.resources
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.GenerateResource.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.CoreCompileInputs.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.CopyComplete
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\obj\Debug\Tecfy2SEservices.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_teste Alerta\Tecfy.OCR\obj\Debug\Tecfy2SEservices.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\Tecfy2SEservices.exe.config
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\Tecfy2SEservices.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\Tecfy2SEservices.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\itextsharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\Microsoft.CSharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\System.Configuration.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\System.Configuration.Install.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\System.Data.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\System.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\System.Drawing.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\System.Management.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\System.Net.Http.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\System.ServiceProcess.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\System.Web.Extensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\System.Xml.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\System.Xml.Linq.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\bin\Debug\itextsharp.xml
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csprojAssemblyReference.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\obj\Debug\Tecfy.OCR.Installer.resources
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.GenerateResource.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.CoreCompileInputs.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.CopyComplete
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\obj\Debug\Tecfy2SEservices.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL\Tecfy.OCR\obj\Debug\Tecfy2SEservices.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\Tecfy2SEservices.exe.config
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\Tecfy2SEservices.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\Tecfy2SEservices.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\itextsharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\Microsoft.CSharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\System.Configuration.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\System.Configuration.Install.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\System.Data.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\System.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\System.Drawing.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\System.Management.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\System.Net.Http.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\System.ServiceProcess.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\System.Web.Extensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\System.Xml.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\System.Xml.Linq.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\bin\Debug\itextsharp.xml
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csprojAssemblyReference.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\obj\Debug\Tecfy.OCR.Installer.resources
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.GenerateResource.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.CoreCompileInputs.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\obj\Debug\Tecfy2SEservices.csproj.CopyComplete
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\obj\Debug\Tecfy2SEservices.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\_TECFY2SE-PRD-OFICIAL_Alerta-EMAIL - TESTE RETURN\Tecfy.OCR\obj\Debug\Tecfy2SEservices.pdb

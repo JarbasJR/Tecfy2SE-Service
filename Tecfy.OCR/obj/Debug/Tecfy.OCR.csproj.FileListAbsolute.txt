@@ -1,0 +1,49 @@
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\Tecfy.OCR.exe.config
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\Tecfy.OCR.exe
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\Tecfy.OCR.pdb
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\GdPicture.exe
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\Microsoft.CSharp.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Configuration.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Configuration.Install.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Data.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Drawing.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Management.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Net.Http.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.ServiceProcess.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Web.Extensions.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Xml.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Xml.Linq.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\GdPicture.pdb
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\GdPicture.exe.config
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.csprojAssemblyReference.cache
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.Installer.resources
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.csproj.GenerateResource.cache
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.csproj.CoreCompileInputs.cache
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.csproj.CopyComplete
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.exe
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\Tecfy.OCR.exe.config
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\Tecfy.OCR.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\Tecfy.OCR.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\Microsoft.CSharp.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Configuration.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Configuration.Install.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Data.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Drawing.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Management.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Net.Http.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.ServiceProcess.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Web.Extensions.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Xml.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Xml.Linq.dll
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.csprojAssemblyReference.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.Installer.resources
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.csproj.GenerateResource.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.csproj.CoreCompileInputs.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.csproj.CopyComplete
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\SERVICE_NOVO\Projeto\SERVICE_NOVO_tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.pdb
